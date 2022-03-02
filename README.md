@@ -7,7 +7,7 @@
 </p>
 
 
-#### Team Members:
+#### Team Members
 * [Piero Rendina](https://github.com/PieroRendina)
 * [Andrea Sanchini](https://github.com/AndreaSanchini)
 
