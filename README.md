@@ -12,7 +12,7 @@
 * [Andrea Sanchini](https://github.com/AndreaSanchini)
 
 ## Dataset
-The dataset is drawn from through the <a href="https://pypi.org/project/yfinance/" target="_blank">Yahoo API</a>
+The dataset is drawn through the <a href="https://pypi.org/project/yfinance/" target="_blank">Yahoo API</a>
 
 ## Models
 The project deals with the full implementation, training and testing of machine learning models to forecast the Bitcoin trends.  
