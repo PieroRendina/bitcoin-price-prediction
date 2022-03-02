@@ -22,7 +22,7 @@ They belong to two different classes known as
 * **sequence-to-sequence** models: prediction of the Bitcoin closing price trend over a certain time-span after having inspected a window of **n** consecutive time-steps
 
 ## Contents
-For a more detailed description of the development process, the training and the testing of the models, please refer to the report of the project.
+For a more detailed description of the development process, the training and the testing of the models, please refer to the notebook and to the report of the project.
 
 
 
