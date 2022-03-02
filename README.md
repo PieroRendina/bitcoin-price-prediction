@@ -8,7 +8,7 @@
 
 
 The project deals with the full implementation, training and testing of machine learning models to forecast the Bitcoin trends.  
-The models are inspired by scientific papers and their training phase is the result of endless trials and errors.
+The models are inspired by scientific papers and their training configuration is the result of endless trials and errors.
 
 #### Team Members:
 * [Piero Rendina](https://github.com/PieroRendina)
