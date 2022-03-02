@@ -1,8 +1,6 @@
 # Bitcoin price prediction using LSTM based models.
 <p align="center">
-  <img src="images/bitcoin_logo.jpeg" style="width:200px;height:200px"/>
-</p>
-<p align="center">
+  <img src="images/02_Polimi_bandiera_BN_positivo_outline.jpg" style="width:600px;height:250px"/>
 </p>
 
 #### Team Members:
