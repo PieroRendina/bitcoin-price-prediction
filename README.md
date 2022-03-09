@@ -17,7 +17,7 @@ The dataset is drawn through the <a href="https://pypi.org/project/yfinance/" ta
 ## Models
 The project deals with the full implementation, training and testing of machine learning models to forecast the Bitcoin trends.  
 The models are inspired by scientific papers and their training configuration is the result of endless trials and errors. 
-They belong to two different classes known as 
+They belong to two different classes known as: 
 * **sequence-to-vector** models: prediction of the Bitcoin closing price *one time-step ahead* after having inspected a window of **n** consecutive time-steps
 * **sequence-to-sequence** models: prediction of the Bitcoin closing price trend over *one time-span ahead* after having inspected a window of **n** consecutive time-steps
 
